@@ -1,4 +1,4 @@
-# Generate a BIP39 mnemonic seed from an image
+# Generate BIP39 seed phrases using images as entropy
 
 ## Quickstart
 
